@@ -20,3 +20,8 @@ From Wikipedia</a></details>
 
 <h2>3.Parse Table </h2>
 <img src="https://github.com/DevMedo/College/blob/master/SLR%20Parser%20Java/ParseTable.gif"; height="500px"; width="500px";>
+<h2>4.Output </h2>
+<img src="https://github.com/DevMedo/Compiler/blob/master/SLR%20Parser%20Java/output.png">
+<h2>5.Example </h2>
+<img src="https://github.com/DevMedo/Compiler/blob/master/SLR%20Parser%20Java/1.jpg";  height="500px"; width="500px";>
+<img src="https://github.com/DevMedo/Compiler/blob/master/SLR%20Parser%20Java/2.jpg";  height="500px"; width="500px";>
